@@ -24,8 +24,8 @@ log = logging.getLogger("pipeline")
 # ============================================================
 #  CONFIG
 # ============================================================
-MMD_FILE       = "/Users/sanskargupta/Downloads/f818d754-8539-4be6-a099-dfb3a07207d4.mmd"
-OUTPUT_DIR     = "/Users/sanskargupta/Desktop/pipeline_test/output"
+MMD_FILE       = "/Users/sanjeevthakur/Downloads/f818d754-8539-4be6-a099-dfb3a07207d4.mmd"
+OUTPUT_DIR     = "/Users/sanjeevthakur/Desktop/pipeline_test/output"
 OPENAI_API_KEY = "YOUR_OPENAI_API_KEY_HERE"
 LLM_MODEL      = "gpt-4o-mini"
 RETRIES        = 3
