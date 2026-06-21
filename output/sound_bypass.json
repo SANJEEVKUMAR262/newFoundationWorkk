@@ -1,0 +1,72 @@
+[
+  {
+    "qid": "Q1",
+    "stem": "How does the sound produced by a vibrating object in a medium reach your ear?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q2",
+    "stem": "Explain how sound is produced by your school bell.",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q4",
+    "stem": "Suppose you and your friend are on the moon. Will you be able to hear any sound produced by your friend?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q6",
+    "stem": "Guess which sound has a higher pitch: guitar or car horn?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q7",
+    "stem": "What are the wavelength, frequency, time period and amplitude of a sound wave?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q8",
+    "stem": "How are the wavelength and frequency of a sound wave related to its speed?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q11",
+    "stem": "Distinguish between loudness and intensity of sound.",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q14",
+    "stem": "Why are the ceilings of concerts halls curved?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q16",
+    "stem": "What is the range of frequencies associated with (a) Infrasound? (b) Ultrasound?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q1",
+    "stem": "What is sound and how is it produced ?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q2",
+    "stem": "Describe with the help of a diagram, how compressions and are refactions are produced in air near a source of sound.",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q3",
+    "stem": "Cite an experiment to show that sound needs a material medium for its propagation.",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q4",
+    "stem": "Why is sound wave called a longitudinal wave ?",
+    "route": "BYPASS"
+  },
+  {
+    "qid": "Q6",
+    "stem": "Flash and thunder are produced simultaneously. But thunder is heard a few seconds after the flash is seen, why ?",
+    "route": "BYPASS"
+  }
+]
